@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "729738014809",
+    "firebase_url": "https://myticket-e0285.firebaseio.com",
+    "project_id": "myticket-e0285",
+    "storage_bucket": "myticket-e0285.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:729738014809:android:ecdc7a38e6f9ed90574148",
+        "android_client_info": {
+          "package_name": "com.example.myticket"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "729738014809-i65hskrqfltquuemnns222tp5dle746b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myticket",
+            "certificate_hash": "33237aedfd4b498a9d639aa3deae011f7120b025"
+          }
+        },
+        {
+          "client_id": "729738014809-vcdbokb5gekq0jjcrpebaf0n4ojbkn4t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgbiLyN6nLvAYnSru4ncycKM0PYIrS2lw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "729738014809-vcdbokb5gekq0jjcrpebaf0n4ojbkn4t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
